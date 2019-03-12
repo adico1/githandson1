@@ -7,7 +7,9 @@
 
 console.log('abc');
 console.log('d');
-console.log('efghi');
+console.log('e');
+console.log('f');
+console.log('ghi');
 console.log('j');
 console.log('k');
 console.log('l');
