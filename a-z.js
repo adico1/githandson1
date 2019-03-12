@@ -5,7 +5,9 @@
  * each commit starts but adding a log to a letter and changing the mock to resemble the change
  */
 
-console.log('abcdefghi');
+console.log('abc');
+console.log('d');
+console.log('efghi');
 console.log('j');
 console.log('k');
 console.log('l');
