@@ -5,3 +5,4 @@
  * each commit starts but adding a log to a letter and changing the mock to resemble the change
  */
 
+console.log('abcdefghijklmnopqrstuvwxyz');
