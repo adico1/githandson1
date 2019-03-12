@@ -7,4 +7,6 @@
 
 console.log('abc');
 console.log('d');
-console.log('efghijklmnopqrstuvwxyz');
+console.log('e');
+console.log('f');
+console.log('ghijklmnopqrstuvwxyz');
